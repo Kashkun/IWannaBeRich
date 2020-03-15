@@ -6,7 +6,7 @@ var _ = require('lodash');
 var log = require('../core/log.js');
 
 var bb = require('./indicators/BB.js');
-var rsi = require('./indicators/RSI-1525204241.js');
+var rsi = require('./indicators/RSI.js');
 
 // let's create our own strat
 var strat = {};
